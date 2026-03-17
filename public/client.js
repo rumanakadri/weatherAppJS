@@ -21,7 +21,7 @@ async function loadChart() {
     try {
         const res = await fetch('/api/weather-log')
         console.log(res)
-        const {city, timestamps, temperatures} = await res.json()
+        const {timestamps, temperatures} = await res.json()
 
         const trace= {
             x: timestamps,

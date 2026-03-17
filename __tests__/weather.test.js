@@ -11,7 +11,7 @@ describe('Weather Data Tests', () => {
     })
     test('weather.json has required keys', () => {
         const raw = fs.readFileSync(WEATHER_JSON, 'utf8')
-        expect(raw.trim().length()).toBeGreatherThan(0)
+        expect(raw.trim().length).toBeGreaterThan(0)
 
         const data = JSON.parse(raw)
         expect(data).toHaveProperty('main')
@@ -23,9 +23,9 @@ describe('Weather Data Tests', () => {
     })
 
     test('CSV log exists and has header', () => {
-        expect(fs.existsSync(CSV_FILE).toBe(true))
+        expect(fs.existsSync(CSV_FILE)).toBe(true)
 
-        const csvContent = fs.readyFileSync(CSV_FILE, 'utf8')
+        const csvContent = fs.readFileSync(CSV_FILE, 'utf8')
         const lines = csvContent.trim().split('\n')
         const header = lines[0].split(',')
 
