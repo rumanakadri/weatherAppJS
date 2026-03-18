@@ -2,11 +2,8 @@ timestamp,city,temperature,description
 2026-03-16T12:42:53.523Z,Surat,27.99,haze
 2026-03-16T12:45:29.516Z,Surat,27.99,haze
 2026-03-16T12:45:50.366Z,Surat,27.99,haze
-2026-03-16T12:55:32.821Z,Tokyo,10.54,broken clouds
-2026-03-16T12:56:10.712Z,Shimla,5.15,clear sky
 2026-03-16T14:15:45.674Z,Surat,24.99,mist
 2026-03-16T15:00:15.473Z,Surat,23.99,mist
-2026-03-17T12:21:26.829Z,London,13.56,broken clouds
 2026-03-17T14:13:02.279Z,Surat,24.99,mist
 2026-03-17T14:59:20.691Z,Surat,23.99,mist
 2026-03-17T17:05:26.603Z,Surat,25.45,clear sky
