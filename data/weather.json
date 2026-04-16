@@ -13,27 +13,26 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 26.99,
-    "feels_like": 29.53,
-    "temp_min": 26.99,
-    "temp_max": 26.99,
-    "pressure": 1007,
-    "humidity": 78,
-    "sea_level": 1007,
+    "temp": 28.55,
+    "feels_like": 30.57,
+    "temp_min": 28.55,
+    "temp_max": 28.55,
+    "pressure": 1008,
+    "humidity": 62,
+    "sea_level": 1008,
     "grnd_level": 1006
   },
-  "visibility": 6000,
+  "visibility": 10000,
   "wind": {
-    "speed": 4.12,
-    "deg": 220
+    "speed": 3.46,
+    "deg": 219,
+    "gust": 4.96
   },
   "clouds": {
-    "all": 47
+    "all": 34
   },
-  "dt": 1776347402,
+  "dt": 1776353026,
   "sys": {
-    "type": 1,
-    "id": 9071,
     "country": "IN",
     "sunrise": 1776300540,
     "sunset": 1776346059
@@ -42,5 +41,5 @@
   "id": 1255364,
   "name": "Surat",
   "cod": 200,
-  "_last_updated_utc": "2026-04-16T13:50:02.458Z"
+  "_last_updated_utc": "2026-04-16T15:27:27.363Z"
 }
