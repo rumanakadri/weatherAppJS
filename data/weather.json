@@ -20,17 +20,17 @@
     "pressure": 1007,
     "humidity": 83,
     "sea_level": 1007,
-    "grnd_level": 1005
+    "grnd_level": 1006
   },
   "visibility": 4000,
   "wind": {
-    "speed": 5.14,
+    "speed": 5.66,
     "deg": 220
   },
   "clouds": {
     "all": 20
   },
-  "dt": 1777583014,
+  "dt": 1777589404,
   "sys": {
     "type": 1,
     "id": 9071,
@@ -42,5 +42,5 @@
   "id": 1255364,
   "name": "Surat",
   "cod": 200,
-  "_last_updated_utc": "2026-04-30T21:03:34.967Z"
+  "_last_updated_utc": "2026-04-30T22:54:46.470Z"
 }
