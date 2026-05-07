@@ -24,13 +24,13 @@
   },
   "visibility": 5000,
   "wind": {
-    "speed": 2.57,
-    "deg": 260
+    "speed": 2.06,
+    "deg": 280
   },
   "clouds": {
-    "all": 6
+    "all": 4
   },
-  "dt": 1778183084,
+  "dt": 1778187936,
   "sys": {
     "type": 1,
     "id": 9071,
@@ -42,5 +42,5 @@
   "id": 1255364,
   "name": "Surat",
   "cod": 200,
-  "_last_updated_utc": "2026-05-07T19:44:44.801Z"
+  "_last_updated_utc": "2026-05-07T21:05:36.621Z"
 }
