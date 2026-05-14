@@ -5,32 +5,32 @@
   },
   "weather": [
     {
-      "id": 801,
+      "id": 802,
       "main": "Clouds",
-      "description": "few clouds",
-      "icon": "02d"
+      "description": "scattered clouds",
+      "icon": "03d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 35.99,
-    "feels_like": 41.4,
-    "temp_min": 35.99,
-    "temp_max": 35.99,
-    "pressure": 1004,
-    "humidity": 46,
-    "sea_level": 1004,
-    "grnd_level": 1003
+    "temp": 33.99,
+    "feels_like": 40.16,
+    "temp_min": 33.99,
+    "temp_max": 33.99,
+    "pressure": 1002,
+    "humidity": 55,
+    "sea_level": 1002,
+    "grnd_level": 1001
   },
   "visibility": 6000,
   "wind": {
-    "speed": 4.12,
-    "deg": 230
+    "speed": 6.17,
+    "deg": 200
   },
   "clouds": {
-    "all": 21
+    "all": 36
   },
-  "dt": 1778741226,
+  "dt": 1778754004,
   "sys": {
     "type": 1,
     "id": 9071,
@@ -42,5 +42,5 @@
   "id": 1255364,
   "name": "Surat",
   "cod": 200,
-  "_last_updated_utc": "2026-05-14T06:47:06.719Z"
+  "_last_updated_utc": "2026-05-14T10:20:04.492Z"
 }
