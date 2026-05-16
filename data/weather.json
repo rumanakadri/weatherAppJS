@@ -8,29 +8,29 @@
       "id": 800,
       "main": "Clear",
       "description": "clear sky",
-      "icon": "01d"
+      "icon": "01n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 31.99,
-    "feels_like": 38.97,
-    "temp_min": 31.99,
-    "temp_max": 31.99,
-    "pressure": 1003,
-    "humidity": 66,
-    "sea_level": 1003,
-    "grnd_level": 1001
+    "temp": 29.99,
+    "feels_like": 36.99,
+    "temp_min": 29.99,
+    "temp_max": 29.99,
+    "pressure": 1004,
+    "humidity": 79,
+    "sea_level": 1004,
+    "grnd_level": 1003
   },
   "visibility": 6000,
   "wind": {
-    "speed": 6.17,
-    "deg": 240
+    "speed": 4.12,
+    "deg": 230
   },
   "clouds": {
     "all": 0
   },
-  "dt": 1778937963,
+  "dt": 1778943290,
   "sys": {
     "type": 1,
     "id": 9071,
@@ -42,5 +42,5 @@
   "id": 1255364,
   "name": "Surat",
   "cod": 200,
-  "_last_updated_utc": "2026-05-16T13:26:03.144Z"
+  "_last_updated_utc": "2026-05-16T14:57:44.230Z"
 }
