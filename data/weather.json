@@ -5,10 +5,10 @@
   },
   "weather": [
     {
-      "id": 803,
-      "main": "Clouds",
-      "description": "broken clouds",
-      "icon": "04n"
+      "id": 701,
+      "main": "Mist",
+      "description": "mist",
+      "icon": "50n"
     }
   ],
   "base": "stations",
@@ -20,17 +20,17 @@
     "pressure": 1003,
     "humidity": 89,
     "sea_level": 1003,
-    "grnd_level": 1001
+    "grnd_level": 1002
   },
-  "visibility": 6000,
+  "visibility": 5000,
   "wind": {
-    "speed": 2.06,
-    "deg": 220
+    "speed": 0,
+    "deg": 0
   },
   "clouds": {
-    "all": 77
+    "all": 71
   },
-  "dt": 1779138857,
+  "dt": 1779145201,
   "sys": {
     "type": 1,
     "id": 9071,
@@ -42,5 +42,5 @@
   "id": 1255364,
   "name": "Surat",
   "cod": 200,
-  "_last_updated_utc": "2026-05-18T21:14:17.859Z"
+  "_last_updated_utc": "2026-05-18T23:03:46.216Z"
 }
