@@ -24,23 +24,23 @@
   },
   "visibility": 5000,
   "wind": {
-    "speed": 8.75,
+    "speed": 7.2,
     "deg": 220
   },
   "clouds": {
-    "all": 20
+    "all": 40
   },
-  "dt": 1780069097,
+  "dt": 1780079691,
   "sys": {
     "type": 1,
     "id": 9071,
     "country": "IN",
-    "sunrise": 1780014425,
-    "sunset": 1780062318
+    "sunrise": 1780100816,
+    "sunset": 1780148743
   },
   "timezone": 19800,
   "id": 1255364,
   "name": "Surat",
   "cod": 200,
-  "_last_updated_utc": "2026-05-29T15:38:17.856Z"
+  "_last_updated_utc": "2026-05-29T18:35:04.336Z"
 }
