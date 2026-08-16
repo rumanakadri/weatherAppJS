@@ -5,9 +5,9 @@
   },
   "weather": [
     {
-      "id": 803,
+      "id": 804,
       "main": "Clouds",
-      "description": "broken clouds",
+      "description": "overcast clouds",
       "icon": "04d"
     }
   ],
@@ -25,12 +25,12 @@
   "visibility": 10000,
   "wind": {
     "speed": 3.6,
-    "deg": 280
+    "deg": 220
   },
   "clouds": {
-    "all": 83
+    "all": 87
   },
-  "dt": 1786869019,
+  "dt": 1786875732,
   "sys": {
     "type": 1,
     "id": 9071,
@@ -42,5 +42,5 @@
   "id": 1255364,
   "name": "Surat",
   "cod": 200,
-  "_last_updated_utc": "2026-08-16T08:30:19.695Z"
+  "_last_updated_utc": "2026-08-16T10:23:31.939Z"
 }
