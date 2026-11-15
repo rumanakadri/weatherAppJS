@@ -8,29 +8,29 @@
       "id": 721,
       "main": "Haze",
       "description": "haze",
-      "icon": "50d"
+      "icon": "50n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 29.99,
-    "feels_like": 30.73,
-    "temp_min": 29.99,
-    "temp_max": 29.99,
-    "pressure": 1015,
-    "humidity": 48,
-    "sea_level": 1015,
-    "grnd_level": 1014
+    "temp": 26.99,
+    "feels_like": 28.44,
+    "temp_min": 26.99,
+    "temp_max": 26.99,
+    "pressure": 1012,
+    "humidity": 65,
+    "sea_level": 1012,
+    "grnd_level": 1011
   },
-  "visibility": 3500,
+  "visibility": 3000,
   "wind": {
-    "speed": 1.03,
-    "deg": 10
+    "speed": 2.06,
+    "deg": 300
   },
   "clouds": {
-    "all": 1
+    "all": 20
   },
-  "dt": 1794719967,
+  "dt": 1794749536,
   "sys": {
     "type": 1,
     "id": 9071,
@@ -42,5 +42,5 @@
   "id": 1255364,
   "name": "Surat",
   "cod": 200,
-  "_last_updated_utc": "2026-11-15T05:19:27.951Z"
+  "_last_updated_utc": "2026-11-15T13:36:04.300Z"
 }
